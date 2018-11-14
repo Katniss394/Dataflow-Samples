@@ -1,0 +1,1045 @@
+1002	Seller specific offer	22
+1008	Lightening Deal	10
+1011	Lightening Deal	20
+1015	Lightening Deal	22
+1018	Lightening Deal	10
+1019	Flash Sale	33
+1026	Flash Sale	20
+1028	Flash Sale	90
+1029	Halloween Sale	90
+1034	Lightening Deal	4
+1039	Lightening Deal	33
+1040	Lightening Deal	50
+1041	Halloween Sale	33
+1043	End of Season Sale	33
+1048	Seller specific offer	30
+1051	End of Season Sale	50
+1054	Lightening Deal	50
+1058	Seller specific offer	10
+1060	Diwali special sale	22
+1061	Lightening Deal	4
+1065	Clearance Sale	20
+1066	Flash Sale	10
+1067	Halloween Sale	50
+1075	Diwali special sale	66
+1079	Clearance Sale	20
+1082	Seller specific offer	22
+1083	Halloween Sale	1
+1093	Lightening Deal	22
+1094	Lightening Deal	20
+1097	Lightening Deal	50
+1101	Flash Sale	66
+1103	Seller specific offer	50
+1105	Halloween Sale	4
+1107	Diwali special sale	1
+1108	Lightening Deal	77
+1110	End of Season Sale	4
+1115	Seller specific offer	50
+1116	Clearance Sale	1
+1118	Lightening Deal	10
+1120	Seller specific offer	50
+1121	Flash Sale	33
+1122	Seller specific offer	22
+1125	Diwali special sale	50
+1128	End of Season Sale	90
+1129	Halloween Sale	33
+1131	Diwali special sale	77
+1132	Clearance Sale	66
+1138	Flash Sale	10
+1139	End of Season Sale	30
+1141	Lightening Deal	22
+1143	Seller specific offer	20
+1145	Halloween Sale	77
+1150	Seller specific offer	30
+1151	Halloween Sale	20
+1152	Lightening Deal	90
+1155	Diwali special sale	77
+1156	Lightening Deal	22
+1159	End of Season Sale	66
+1165	Lightening Deal	1
+1168	Lightening Deal	90
+1169	Lightening Deal	50
+1171	Halloween Sale	50
+1172	Seller specific offer	22
+1178	End of Season Sale	66
+1183	Seller specific offer	50
+1184	Seller specific offer	50
+1185	Lightening Deal	10
+1186	Halloween Sale	90
+1187	Halloween Sale	22
+1188	Lightening Deal	30
+1191	Lightening Deal	1
+1192	Seller specific offer	10
+1197	Lightening Deal	30
+1198	Seller specific offer	66
+1199	Flash Sale	50
+1204	Diwali special sale	4
+1208	End of Season Sale	30
+1209	Flash Sale	50
+1211	Seller specific offer	33
+1213	Seller specific offer	10
+1214	Lightening Deal	50
+1220	End of Season Sale	90
+1222	Flash Sale	66
+1223	Clearance Sale	4
+1227	Diwali special sale	10
+1233	Clearance Sale	90
+1239	Lightening Deal	4
+1240	End of Season Sale	50
+1242	Flash Sale	90
+1244	Clearance Sale	20
+1245	Seller specific offer	66
+1247	Lightening Deal	10
+1253	Seller specific offer	90
+1258	Flash Sale	4
+1260	Halloween Sale	50
+1263	Flash Sale	50
+1264	Lightening Deal	77
+1266	Flash Sale	5
+1267	Seller specific offer	50
+1274	Halloween Sale	5
+1277	Seller specific offer	50
+1280	End of Season Sale	50
+1282	Diwali special sale	4
+1283	Lightening Deal	50
+1285	Lightening Deal	4
+1286	Diwali special sale	20
+1290	Flash Sale	66
+1299	Lightening Deal	20
+1303	Lightening Deal	50
+1305	Seller specific offer	1
+1306	Seller specific offer	33
+1313	Flash Sale	50
+1314	Flash Sale	30
+1315	Flash Sale	10
+1316	Flash Sale	77
+1321	Seller specific offer	30
+1325	Lightening Deal	50
+1327	Flash Sale	77
+1329	End of Season Sale	20
+1330	Flash Sale	77
+1334	Seller specific offer	1
+1336	End of Season Sale	20
+1337	End of Season Sale	30
+1338	Flash Sale	4
+1342	Flash Sale	22
+1344	Halloween Sale	33
+1350	Flash Sale	5
+1351	Lightening Deal	90
+1353	End of Season Sale	4
+1355	Seller specific offer	10
+1358	Seller specific offer	20
+1360	Seller specific offer	50
+1362	Flash Sale	1
+1366	End of Season Sale	5
+1367	Lightening Deal	66
+1369	Flash Sale	77
+1371	Seller specific offer	50
+1372	Seller specific offer	20
+1373	Flash Sale	4
+1376	Flash Sale	50
+1379	Diwali special sale	33
+1382	Seller specific offer	10
+1384	Flash Sale	33
+1385	Seller specific offer	22
+1387	End of Season Sale	5
+1390	Clearance Sale	90
+1392	Lightening Deal	66
+1399	Diwali special sale	30
+1402	Lightening Deal	22
+1404	Seller specific offer	20
+1405	End of Season Sale	90
+1412	Lightening Deal	77
+1413	Flash Sale	10
+1414	Seller specific offer	50
+1415	Flash Sale	20
+1417	Seller specific offer	77
+1418	Lightening Deal	10
+1421	Seller specific offer	30
+1422	Clearance Sale	90
+1423	Flash Sale	20
+1425	Seller specific offer	22
+1434	Flash Sale	10
+1438	Flash Sale	4
+1440	Flash Sale	66
+1443	Lightening Deal	22
+1444	Seller specific offer	30
+1446	Halloween Sale	50
+1449	Flash Sale	77
+1455	Lightening Deal	1
+1458	Lightening Deal	10
+1459	Lightening Deal	10
+1460	Halloween Sale	50
+1461	Flash Sale	5
+1464	Seller specific offer	50
+1465	Halloween Sale	90
+1469	End of Season Sale	33
+1473	End of Season Sale	50
+1474	Flash Sale	1
+1477	Seller specific offer	66
+1487	Lightening Deal	4
+1490	Halloween Sale	10
+1499	Halloween Sale	77
+1501	Lightening Deal	20
+1504	Halloween Sale	10
+1505	Seller specific offer	33
+1506	Seller specific offer	50
+1508	Lightening Deal	66
+1509	Seller specific offer	77
+1510	Diwali special sale	90
+1516	Flash Sale	22
+1517	Seller specific offer	1
+1518	Clearance Sale	5
+1520	Seller specific offer	20
+1521	Seller specific offer	1
+1527	Flash Sale	1
+1528	End of Season Sale	77
+1535	Flash Sale	20
+1537	Halloween Sale	22
+1538	Lightening Deal	77
+1546	Halloween Sale	30
+1549	Seller specific offer	50
+1550	Halloween Sale	10
+1551	Seller specific offer	50
+1554	Halloween Sale	4
+1556	Lightening Deal	66
+1558	Clearance Sale	5
+1559	Diwali special sale	4
+1564	Seller specific offer	90
+1566	Lightening Deal	20
+1567	Flash Sale	50
+1574	Lightening Deal	33
+1576	Flash Sale	10
+1577	Clearance Sale	77
+1580	Lightening Deal	22
+1582	Flash Sale	10
+1584	Seller specific offer	50
+1585	End of Season Sale	66
+1586	Clearance Sale	50
+1587	Halloween Sale	30
+1592	Seller specific offer	50
+1593	Halloween Sale	30
+1596	Halloween Sale	5
+1597	End of Season Sale	50
+1599	Seller specific offer	1
+1601	End of Season Sale	50
+1609	End of Season Sale	30
+1610	Seller specific offer	1
+1611	Clearance Sale	66
+1612	End of Season Sale	5
+1613	Flash Sale	77
+1617	Lightening Deal	33
+1618	Halloween Sale	5
+1619	Clearance Sale	33
+1620	End of Season Sale	20
+1621	End of Season Sale	90
+1622	Lightening Deal	5
+1623	Flash Sale	20
+1624	End of Season Sale	20
+1625	Seller specific offer	1
+1626	Halloween Sale	30
+1632	Halloween Sale	30
+1633	End of Season Sale	50
+1637	Seller specific offer	5
+1638	Lightening Deal	33
+1640	Clearance Sale	90
+1641	Lightening Deal	33
+1643	Halloween Sale	33
+1645	Flash Sale	50
+1646	Diwali special sale	77
+1649	Clearance Sale	20
+1650	Lightening Deal	50
+1653	Seller specific offer	90
+1654	Halloween Sale	66
+1655	Seller specific offer	4
+1658	Halloween Sale	4
+1659	End of Season Sale	50
+1661	Halloween Sale	1
+1665	Flash Sale	22
+1666	Diwali special sale	50
+1668	Lightening Deal	77
+1670	Flash Sale	1
+1672	Lightening Deal	33
+1678	End of Season Sale	5
+1683	Seller specific offer	66
+1688	Lightening Deal	66
+1689	Halloween Sale	22
+1691	Seller specific offer	50
+1696	Seller specific offer	33
+1697	End of Season Sale	77
+1699	End of Season Sale	50
+1702	End of Season Sale	5
+1704	Diwali special sale	50
+1705	Seller specific offer	20
+1706	Diwali special sale	10
+1707	Lightening Deal	10
+1708	Clearance Sale	33
+1709	Halloween Sale	1
+1710	Halloween Sale	4
+1711	Lightening Deal	22
+1712	Seller specific offer	77
+1716	Seller specific offer	22
+1717	Seller specific offer	5
+1720	Seller specific offer	50
+1721	End of Season Sale	50
+1725	Flash Sale	22
+1726	Seller specific offer	50
+1727	Lightening Deal	66
+1728	Lightening Deal	33
+1729	Lightening Deal	20
+1731	Seller specific offer	50
+1733	Lightening Deal	10
+1734	Flash Sale	4
+1736	End of Season Sale	66
+1738	Seller specific offer	30
+1741	Flash Sale	66
+1743	Lightening Deal	77
+1745	Flash Sale	20
+1746	Halloween Sale	1
+1747	End of Season Sale	30
+1748	Halloween Sale	90
+1751	Seller specific offer	50
+1752	Seller specific offer	5
+1753	Halloween Sale	22
+1755	Seller specific offer	50
+1756	Clearance Sale	33
+1757	Lightening Deal	10
+1760	End of Season Sale	1
+1764	Clearance Sale	5
+1765	Diwali special sale	66
+1769	Halloween Sale	10
+1771	Flash Sale	4
+1772	Halloween Sale	5
+1774	Flash Sale	50
+1775	Seller specific offer	22
+1778	Clearance Sale	10
+1782	Flash Sale	10
+1783	Lightening Deal	1
+1789	Diwali special sale	30
+1791	Seller specific offer	33
+1792	Flash Sale	1
+1794	Lightening Deal	4
+1795	Diwali special sale	66
+1798	Diwali special sale	33
+1799	Lightening Deal	4
+1800	Flash Sale	50
+1803	Seller specific offer	30
+1804	Seller specific offer	90
+1805	Flash Sale	30
+1807	Flash Sale	4
+1808	Lightening Deal	33
+1809	End of Season Sale	90
+1810	Flash Sale	4
+1811	End of Season Sale	50
+1813	Seller specific offer	10
+1815	Seller specific offer	66
+1816	Lightening Deal	30
+1818	Flash Sale	10
+1819	Seller specific offer	22
+1821	Lightening Deal	90
+1824	Flash Sale	22
+1826	Lightening Deal	10
+1827	Flash Sale	1
+1829	Flash Sale	10
+1832	Seller specific offer	30
+1833	Halloween Sale	90
+1835	Seller specific offer	22
+1837	Lightening Deal	5
+1838	End of Season Sale	1
+1839	Flash Sale	4
+1841	Flash Sale	1
+1842	Flash Sale	4
+1843	Lightening Deal	77
+1844	End of Season Sale	20
+1845	End of Season Sale	5
+1849	Lightening Deal	66
+1851	Halloween Sale	1
+1854	Lightening Deal	22
+1855	Flash Sale	20
+1856	Lightening Deal	1
+1858	Lightening Deal	10
+1861	Flash Sale	22
+1862	Diwali special sale	5
+1863	Halloween Sale	10
+1865	Clearance Sale	77
+1867	Lightening Deal	22
+1869	Flash Sale	33
+1872	Flash Sale	20
+1874	End of Season Sale	66
+1875	Flash Sale	1
+1878	Halloween Sale	50
+1882	Lightening Deal	90
+1883	Flash Sale	66
+1884	Flash Sale	90
+1886	Flash Sale	10
+1888	Flash Sale	66
+1891	End of Season Sale	50
+1893	Diwali special sale	20
+1894	Clearance Sale	20
+1898	Clearance Sale	90
+1899	Flash Sale	10
+1900	Lightening Deal	20
+1901	End of Season Sale	30
+1902	Flash Sale	22
+1905	Lightening Deal	10
+1906	Halloween Sale	5
+1907	Flash Sale	90
+1908	Clearance Sale	20
+1909	Halloween Sale	10
+1912	End of Season Sale	90
+1914	Flash Sale	10
+1916	Seller specific offer	10
+1917	Flash Sale	66
+1919	Halloween Sale	5
+1920	Lightening Deal	10
+1922	Flash Sale	66
+1923	Seller specific offer	66
+1926	Clearance Sale	20
+1927	Seller specific offer	77
+1929	Lightening Deal	5
+1933	Lightening Deal	50
+1935	Halloween Sale	50
+1937	Lightening Deal	4
+1938	Lightening Deal	1
+1941	Clearance Sale	30
+1943	Lightening Deal	50
+1949	Clearance Sale	66
+1950	Lightening Deal	50
+1951	End of Season Sale	77
+1954	Flash Sale	30
+1956	End of Season Sale	20
+1958	End of Season Sale	10
+1959	Flash Sale	77
+1961	End of Season Sale	66
+1966	Lightening Deal	90
+1968	End of Season Sale	4
+1969	End of Season Sale	22
+1971	Halloween Sale	30
+1972	End of Season Sale	90
+1975	End of Season Sale	50
+1978	Halloween Sale	10
+1979	Halloween Sale	90
+1981	Halloween Sale	1
+1984	Flash Sale	66
+1986	Clearance Sale	5
+1987	Seller specific offer	22
+1990	Flash Sale	33
+1992	Halloween Sale	50
+1993	Flash Sale	22
+1994	Flash Sale	1
+1997	Lightening Deal	1
+1998	Halloween Sale	33
+1999	Seller specific offer	33
+2000	Flash Sale	90
+2003	Diwali special sale	10
+2005	End of Season Sale	50
+2006	Flash Sale	30
+2009	Flash Sale	50
+2011	Lightening Deal	30
+2013	Seller specific offer	20
+2014	Halloween Sale	33
+2023	Flash Sale	4
+2026	Diwali special sale	90
+2028	Flash Sale	66
+2029	End of Season Sale	30
+2033	Seller specific offer	4
+2035	Clearance Sale	4
+2036	Flash Sale	20
+2037	Lightening Deal	5
+2040	End of Season Sale	10
+2044	Halloween Sale	5
+2048	Flash Sale	10
+2049	Flash Sale	10
+2050	Flash Sale	10
+2053	Flash Sale	90
+2055	Flash Sale	4
+2056	Flash Sale	5
+2057	Halloween Sale	10
+2058	Flash Sale	33
+2059	Lightening Deal	22
+2060	Diwali special sale	5
+2062	Seller specific offer	5
+2063	Diwali special sale	50
+2064	Lightening Deal	10
+2066	Lightening Deal	90
+2067	Lightening Deal	10
+2069	End of Season Sale	1
+2070	Flash Sale	66
+2072	Lightening Deal	90
+2073	Seller specific offer	77
+2075	Flash Sale	20
+2079	Flash Sale	22
+2083	Flash Sale	77
+2084	Seller specific offer	77
+2085	Lightening Deal	20
+2086	Flash Sale	1
+2088	End of Season Sale	10
+2094	Diwali special sale	50
+2095	Diwali special sale	66
+2097	Lightening Deal	77
+2098	Seller specific offer	90
+2099	Seller specific offer	10
+2102	Lightening Deal	22
+2103	Lightening Deal	5
+2104	Flash Sale	33
+2107	End of Season Sale	50
+2108	Seller specific offer	1
+2109	End of Season Sale	33
+2110	Halloween Sale	20
+2111	Seller specific offer	4
+2112	Lightening Deal	66
+2113	Seller specific offer	33
+2116	Halloween Sale	10
+2120	Clearance Sale	33
+2125	End of Season Sale	10
+2128	Flash Sale	30
+2133	Flash Sale	50
+2134	Seller specific offer	5
+2141	Flash Sale	10
+2144	End of Season Sale	22
+2146	Clearance Sale	33
+2149	Flash Sale	1
+2153	Seller specific offer	90
+2155	Halloween Sale	50
+2156	Seller specific offer	1
+2157	Halloween Sale	30
+2162	Seller specific offer	5
+2163	Seller specific offer	20
+2167	Flash Sale	50
+2176	Lightening Deal	10
+2178	End of Season Sale	10
+2188	Lightening Deal	1
+2189	Diwali special sale	30
+2190	End of Season Sale	10
+2193	Lightening Deal	50
+2197	Flash Sale	1
+2200	End of Season Sale	10
+2201	End of Season Sale	66
+2204	Halloween Sale	5
+2205	End of Season Sale	1
+2209	Halloween Sale	10
+2211	Diwali special sale	50
+2213	Lightening Deal	66
+2214	Diwali special sale	50
+2216	Clearance Sale	4
+2223	End of Season Sale	50
+2224	Seller specific offer	10
+2225	End of Season Sale	50
+2226	Seller specific offer	10
+2227	Lightening Deal	30
+2230	Lightening Deal	10
+2231	Seller specific offer	30
+2232	End of Season Sale	20
+2235	Flash Sale	5
+2236	Halloween Sale	77
+2238	Halloween Sale	90
+2240	Seller specific offer	50
+2241	Flash Sale	20
+2244	Lightening Deal	22
+2245	Lightening Deal	30
+2247	Flash Sale	50
+2248	Flash Sale	5
+2249	Diwali special sale	66
+2251	End of Season Sale	10
+2252	End of Season Sale	10
+2253	Diwali special sale	22
+2255	Seller specific offer	10
+2259	Diwali special sale	77
+2264	Clearance Sale	33
+2265	Lightening Deal	50
+2267	Seller specific offer	30
+2268	Halloween Sale	22
+2271	Flash Sale	10
+2275	End of Season Sale	4
+2276	Flash Sale	30
+2277	End of Season Sale	66
+2278	End of Season Sale	50
+2279	End of Season Sale	33
+2286	Flash Sale	77
+2288	End of Season Sale	50
+2289	Clearance Sale	4
+2290	Lightening Deal	50
+2292	End of Season Sale	10
+2293	End of Season Sale	22
+2296	Lightening Deal	1
+2297	End of Season Sale	1
+2299	Clearance Sale	5
+2300	Lightening Deal	77
+2301	Lightening Deal	90
+2308	Lightening Deal	30
+2313	Diwali special sale	30
+2317	Flash Sale	20
+2319	Lightening Deal	50
+2321	Flash Sale	20
+2324	Halloween Sale	77
+2328	Halloween Sale	33
+2332	Seller specific offer	4
+2333	Lightening Deal	77
+2336	End of Season Sale	30
+2339	Seller specific offer	4
+2340	End of Season Sale	10
+2343	Halloween Sale	33
+2345	Lightening Deal	66
+2347	Seller specific offer	66
+2349	End of Season Sale	30
+2350	End of Season Sale	33
+2351	Seller specific offer	10
+2355	Lightening Deal	50
+2358	Lightening Deal	5
+2359	Flash Sale	30
+2363	Lightening Deal	10
+2364	Lightening Deal	66
+2366	Halloween Sale	90
+2367	Lightening Deal	90
+2368	Diwali special sale	33
+2375	Flash Sale	5
+2376	End of Season Sale	5
+2377	Seller specific offer	50
+2378	Clearance Sale	66
+2382	Lightening Deal	30
+2384	Flash Sale	20
+2385	Lightening Deal	66
+2386	Diwali special sale	30
+2387	Diwali special sale	50
+2388	Lightening Deal	22
+2389	Flash Sale	66
+2392	Flash Sale	66
+2395	Seller specific offer	4
+2399	Flash Sale	77
+2400	Seller specific offer	50
+2401	Halloween Sale	5
+2404	End of Season Sale	50
+2407	Lightening Deal	10
+2408	Halloween Sale	50
+2415	Flash Sale	66
+2417	Flash Sale	77
+2423	Seller specific offer	4
+2424	Seller specific offer	10
+2425	Lightening Deal	20
+2427	Flash Sale	30
+2429	Flash Sale	30
+2430	Flash Sale	20
+2432	Clearance Sale	66
+2441	Lightening Deal	4
+2444	Flash Sale	5
+2445	Lightening Deal	33
+2446	Flash Sale	10
+2447	Flash Sale	30
+2448	Diwali special sale	20
+2449	Lightening Deal	10
+2454	Halloween Sale	33
+2456	End of Season Sale	22
+2457	End of Season Sale	30
+2460	Seller specific offer	1
+2462	Flash Sale	50
+2463	Lightening Deal	4
+2464	Halloween Sale	10
+2465	Diwali special sale	30
+2468	Flash Sale	90
+2471	Lightening Deal	1
+2475	Lightening Deal	10
+2476	Diwali special sale	33
+2477	End of Season Sale	10
+2480	Flash Sale	20
+2481	End of Season Sale	20
+2482	End of Season Sale	77
+2484	Seller specific offer	1
+2485	Clearance Sale	90
+2489	Flash Sale	66
+2491	End of Season Sale	50
+2494	Seller specific offer	5
+2497	Seller specific offer	10
+2498	Diwali special sale	50
+2502	Flash Sale	33
+2504	Diwali special sale	10
+2505	Clearance Sale	66
+2506	Lightening Deal	66
+2508	Lightening Deal	90
+2510	Lightening Deal	50
+2511	Seller specific offer	66
+2516	Halloween Sale	10
+2517	Diwali special sale	5
+2519	End of Season Sale	5
+2520	Flash Sale	4
+2522	Seller specific offer	1
+2523	End of Season Sale	33
+2524	Seller specific offer	10
+2525	Halloween Sale	33
+2527	Seller specific offer	50
+2529	Lightening Deal	1
+2530	Lightening Deal	10
+2531	Diwali special sale	10
+2534	Flash Sale	90
+2537	End of Season Sale	66
+2538	Seller specific offer	77
+2542	Flash Sale	50
+2544	Halloween Sale	50
+2545	Flash Sale	50
+2546	Diwali special sale	1
+2548	Seller specific offer	10
+2550	Flash Sale	4
+2552	Clearance Sale	77
+2553	Seller specific offer	10
+2558	Lightening Deal	5
+2559	Seller specific offer	10
+2561	Flash Sale	20
+2563	Halloween Sale	5
+2564	Flash Sale	20
+2566	Halloween Sale	20
+2568	Lightening Deal	5
+2569	Flash Sale	77
+2571	Diwali special sale	20
+2577	Diwali special sale	1
+2579	Halloween Sale	20
+2581	Flash Sale	4
+2584	Seller specific offer	90
+2588	Seller specific offer	77
+2590	Seller specific offer	66
+2591	Halloween Sale	30
+2592	End of Season Sale	50
+2597	Seller specific offer	4
+2602	Flash Sale	50
+2607	Halloween Sale	66
+2608	Halloween Sale	33
+2609	Lightening Deal	10
+2611	Halloween Sale	20
+2612	Flash Sale	4
+2613	Flash Sale	10
+2614	Seller specific offer	22
+2616	Lightening Deal	5
+2618	Lightening Deal	22
+2619	Seller specific offer	5
+2621	Seller specific offer	4
+2622	Flash Sale	10
+2628	Flash Sale	10
+2630	Flash Sale	50
+2631	Lightening Deal	20
+2632	Seller specific offer	1
+2633	Seller specific offer	10
+2634	End of Season Sale	77
+2635	Halloween Sale	1
+2636	End of Season Sale	10
+2638	Lightening Deal	10
+2642	Seller specific offer	66
+2643	Flash Sale	50
+2645	Lightening Deal	90
+2647	Lightening Deal	33
+2656	Flash Sale	10
+2658	Seller specific offer	5
+2666	Lightening Deal	5
+2672	Seller specific offer	22
+2673	Flash Sale	22
+2678	Halloween Sale	50
+2681	Seller specific offer	50
+2682	End of Season Sale	10
+2683	Flash Sale	33
+2688	Lightening Deal	22
+2689	Halloween Sale	10
+2690	Lightening Deal	22
+2695	Clearance Sale	77
+2698	Flash Sale	77
+2699	Seller specific offer	90
+2700	Seller specific offer	30
+2702	Seller specific offer	10
+2703	Halloween Sale	66
+2705	Flash Sale	30
+2706	Halloween Sale	30
+2708	End of Season Sale	30
+2709	Diwali special sale	90
+2710	Flash Sale	50
+2713	Seller specific offer	33
+2714	Flash Sale	50
+2715	Seller specific offer	10
+2718	End of Season Sale	50
+2719	Halloween Sale	90
+2723	End of Season Sale	50
+2724	Diwali special sale	1
+2726	Halloween Sale	77
+2729	Flash Sale	77
+2730	Seller specific offer	30
+2731	Halloween Sale	22
+2733	Seller specific offer	50
+2736	Seller specific offer	50
+2738	Flash Sale	50
+2740	End of Season Sale	10
+2742	Halloween Sale	50
+2743	End of Season Sale	4
+2746	End of Season Sale	22
+2747	Seller specific offer	50
+2755	Lightening Deal	1
+2757	Seller specific offer	5
+2758	Diwali special sale	5
+2760	Flash Sale	4
+2763	Seller specific offer	30
+2765	Diwali special sale	22
+2767	Lightening Deal	10
+2772	Lightening Deal	20
+2773	Seller specific offer	50
+2774	Flash Sale	1
+2784	Clearance Sale	90
+2786	Flash Sale	50
+2787	Flash Sale	77
+2789	Diwali special sale	10
+2791	Lightening Deal	30
+2792	End of Season Sale	10
+2793	Seller specific offer	10
+2794	Lightening Deal	33
+2795	End of Season Sale	4
+2796	End of Season Sale	30
+2798	End of Season Sale	5
+2801	Halloween Sale	90
+2802	Diwali special sale	22
+2803	Lightening Deal	50
+2804	Lightening Deal	1
+2806	Seller specific offer	10
+2809	Halloween Sale	50
+2813	Lightening Deal	77
+2815	Diwali special sale	4
+2816	Halloween Sale	4
+2821	Flash Sale	22
+2823	End of Season Sale	10
+2827	Diwali special sale	33
+2830	Halloween Sale	5
+2833	Halloween Sale	66
+2834	End of Season Sale	90
+2835	Flash Sale	66
+2836	Halloween Sale	50
+2844	Diwali special sale	50
+2845	Seller specific offer	20
+2848	Lightening Deal	20
+2849	Flash Sale	10
+2852	Halloween Sale	10
+2855	Diwali special sale	1
+2858	Diwali special sale	90
+2861	End of Season Sale	10
+2862	Flash Sale	22
+2864	Flash Sale	90
+2865	Diwali special sale	20
+2870	Flash Sale	1
+2871	End of Season Sale	33
+2872	Seller specific offer	10
+2873	Diwali special sale	5
+2874	Lightening Deal	5
+2876	Lightening Deal	5
+2878	Halloween Sale	90
+2881	Seller specific offer	22
+2886	End of Season Sale	4
+2887	Lightening Deal	66
+2888	End of Season Sale	20
+2890	Lightening Deal	50
+2892	Clearance Sale	77
+2895	Seller specific offer	22
+2898	Seller specific offer	10
+2900	Lightening Deal	5
+2901	Seller specific offer	90
+2903	Lightening Deal	1
+2904	Halloween Sale	90
+2905	End of Season Sale	30
+2906	Flash Sale	90
+2908	Flash Sale	33
+2910	Diwali special sale	10
+2911	Seller specific offer	22
+2912	Flash Sale	4
+2913	Seller specific offer	90
+2917	Flash Sale	30
+2919	Halloween Sale	90
+2920	Lightening Deal	33
+2923	Flash Sale	50
+2924	Lightening Deal	66
+2927	Seller specific offer	33
+2928	Flash Sale	77
+2929	Flash Sale	5
+2930	Clearance Sale	50
+2935	Diwali special sale	22
+2939	Seller specific offer	10
+2941	Flash Sale	66
+2942	Seller specific offer	22
+2944	Flash Sale	22
+2949	Clearance Sale	4
+2952	End of Season Sale	77
+2953	Seller specific offer	4
+2954	Flash Sale	10
+2957	Seller specific offer	20
+2958	Flash Sale	66
+2959	Flash Sale	77
+2960	Seller specific offer	50
+2965	Halloween Sale	33
+2966	End of Season Sale	50
+2967	Seller specific offer	1
+2968	End of Season Sale	5
+2970	Seller specific offer	50
+2971	Lightening Deal	4
+2974	Halloween Sale	5
+2975	End of Season Sale	1
+2976	Diwali special sale	4
+2979	End of Season Sale	77
+2980	Lightening Deal	50
+2982	Diwali special sale	50
+2984	Lightening Deal	1
+2987	Diwali special sale	4
+2988	Seller specific offer	30
+2990	Seller specific offer	10
+2991	Halloween Sale	20
+2996	Seller specific offer	20
+2998	Seller specific offer	10
+3000	Lightening Deal	20
+3003	Lightening Deal	5
+3004	Flash Sale	77
+3005	Halloween Sale	1
+3006	Flash Sale	22
+3007	End of Season Sale	4
+3008	End of Season Sale	10
+3012	Seller specific offer	66
+3017	End of Season Sale	10
+3019	Lightening Deal	33
+3021	Halloween Sale	10
+3022	Flash Sale	5
+3025	Halloween Sale	22
+3027	Lightening Deal	30
+3031	Diwali special sale	77
+3035	Lightening Deal	1
+3038	Clearance Sale	77
+3039	Diwali special sale	22
+3040	End of Season Sale	22
+3041	Diwali special sale	90
+3044	Halloween Sale	33
+3045	Halloween Sale	90
+3046	Clearance Sale	77
+3052	Lightening Deal	77
+3056	End of Season Sale	22
+3058	End of Season Sale	1
+3059	Diwali special sale	33
+3061	Flash Sale	5
+3063	Seller specific offer	50
+3064	Clearance Sale	10
+3067	Lightening Deal	50
+3069	Lightening Deal	50
+3070	Lightening Deal	10
+3071	Halloween Sale	10
+3072	Halloween Sale	22
+3075	Lightening Deal	10
+3077	Lightening Deal	1
+3078	Halloween Sale	33
+3079	Seller specific offer	77
+3081	Lightening Deal	1
+3083	Flash Sale	50
+3086	Diwali special sale	77
+3088	Seller specific offer	30
+3090	Lightening Deal	33
+3095	Halloween Sale	4
+3098	Flash Sale	22
+3100	Flash Sale	20
+3102	Flash Sale	90
+3103	End of Season Sale	77
+3106	End of Season Sale	50
+3108	Flash Sale	33
+3109	Flash Sale	50
+3111	Flash Sale	90
+3112	Flash Sale	10
+3113	End of Season Sale	50
+3114	Diwali special sale	10
+3115	End of Season Sale	30
+3116	Flash Sale	50
+3119	End of Season Sale	50
+3120	Diwali special sale	10
+3121	Diwali special sale	66
+3123	Lightening Deal	30
+3124	Seller specific offer	4
+3126	Seller specific offer	10
+3127	Lightening Deal	50
+3128	Lightening Deal	20
+3131	Seller specific offer	1
+3132	Diwali special sale	10
+3133	Flash Sale	30
+3136	Halloween Sale	50
+3138	Lightening Deal	77
+3139	Halloween Sale	5
+3141	Seller specific offer	30
+3142	Clearance Sale	4
+3144	Seller specific offer	10
+3147	Lightening Deal	4
+3149	Flash Sale	33
+3150	Halloween Sale	90
+3153	Flash Sale	66
+3154	Flash Sale	1
+3157	Seller specific offer	33
+3158	Halloween Sale	66
+3162	Seller specific offer	10
+3163	Seller specific offer	77
+3164	Diwali special sale	20
+3166	End of Season Sale	4
+3167	Flash Sale	50
+3169	Clearance Sale	4
+3174	Lightening Deal	22
+3177	Seller specific offer	90
+3179	Flash Sale	30
+3180	End of Season Sale	77
+3183	Halloween Sale	50
+3184	Flash Sale	10
+3186	End of Season Sale	4
+3187	Halloween Sale	66
+3188	Flash Sale	30
+3192	Seller specific offer	33
+3197	Seller specific offer	10
+3200	End of Season Sale	33
+3201	Diwali special sale	10
+3207	Flash Sale	4
+3209	Seller specific offer	10
+3210	Lightening Deal	33
+3212	Clearance Sale	33
+3213	Lightening Deal	10
+3214	Halloween Sale	10
+3215	Flash Sale	77
+3220	End of Season Sale	66
+3225	Flash Sale	10
+3227	Flash Sale	5
+3230	Lightening Deal	10
+3231	Lightening Deal	33
+3236	Halloween Sale	77
+3237	Flash Sale	20
+3241	Lightening Deal	1
+3242	Seller specific offer	1
+3243	Seller specific offer	22
+3249	End of Season Sale	20
+3253	End of Season Sale	50
+3258	Diwali special sale	50
+3259	Lightening Deal	5
+3260	Lightening Deal	90
+3263	Seller specific offer	10
+3266	Halloween Sale	50
+3267	Halloween Sale	5
+3269	End of Season Sale	50
+3271	Lightening Deal	22
+3272	Flash Sale	10
+3273	Lightening Deal	90
+3275	Flash Sale	10
+3277	Diwali special sale	1
+3279	Lightening Deal	77
+3284	Clearance Sale	5
+3286	Lightening Deal	4
+3289	Diwali special sale	5
+3295	End of Season Sale	10
+3296	End of Season Sale	33
+3298	Halloween Sale	1
+3300	Seller specific offer	4
+3301	End of Season Sale	77
+3302	End of Season Sale	10
+3303	Flash Sale	50
+3306	Lightening Deal	4
+3307	Lightening Deal	30
+3308	Flash Sale	77
+3312	Diwali special sale	10
+3313	Halloween Sale	30
+3316	Lightening Deal	20
+3317	End of Season Sale	66
+3320	Lightening Deal	4
+3321	Clearance Sale	5
+3322	End of Season Sale	30
+3324	Seller specific offer	1
+3325	Lightening Deal	1
+3326	End of Season Sale	90
+3329	Lightening Deal	10
+3333	Lightening Deal	90
+3336	Flash Sale	77
+3337	Clearance Sale	22
+3338	Seller specific offer	5
